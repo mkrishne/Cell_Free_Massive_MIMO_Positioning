@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Distributed Machine Learning for Localization in Cell-Free Massive MIMO Systems"
+title: "Fingerprint based Localization in Cell-Free Massive MIMO Systems"
 authors:
   - family-names: Krishne Gowda
     given-names: Manish Kumar
