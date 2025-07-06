@@ -1,23 +1,83 @@
-This repository contains the code associated with the paper "Distributed Machine Learning Approach for Low-Latency Localization in Cell-Free Massive MIMO Systems."
+# Distributed Machine Learning for Localization in Cell-Free Massive MIMO Systems
 
-Following MATLAB toolboxes are needed to run the code :
-	1. Signal Processing Toolbox
-	2. Phased Array Toolbox
-	3. Statistics and Machine Learning Toolbox
-	4. Deep Learning Toolbox
-	5. Parallel Computing Toolbox
+This repository contains the code associated with the paper:  
+**"Distributed Machine Learning Approach for Low-Latency Localization in Cell-Free Massive MIMO Systems."**
 
-The simulations were executed in MATLAB, and the results were saved using the diary log. Python was then used to generate the plots for greater control over the plotting environment. An exception is Fig. 9 (CDF plot), which was generated directly in MATLAB. Fig. 10 results were obtained from the CRLB outputs printed by Fig_3_to_6_localization_across_N.m. To ensure reproducibility, set the random number generator (rng) seed to the same value used in the repository. Since the simulations are time-intensive and can take several days to run, the final results have been included in the repository for convenience. 
+---
 
-To generate Fig. 9 (CDF of localization errors):
-	1.First, run Fig9_CDF_Localization_error.m to compute the required localization error data.
-	2. Then, run Fig9_CDF_Localization_error_plot.m to generate the plot. Be sure to update the variable name and plot title to match the specific localization method being plotted.
-	3. Alternatively, to plot directly without re-running the computations, you may import the precomputed file Fig9_CDF_Localization_error_plot.mat, which contains results for all positioning methods.
+## Overview
 
-Although not discussed in the paper, the simulation code for the distributed-mean-z-score method is also included in this repository. This approach applies z-score filtering to eliminate outliers before averaging the position estimates. While it achieves lower localization error compared to the simple mean, the error ellipse area is slightly higher than that of the mean—but still significantly lower than that of the median.
+The simulations were executed in **MATLAB**, with results saved using `diary` logs for reproducibility. Most figures were generated using **Python**, which offers greater flexibility and control for publication-quality plots.  
+- **Exception**:  
+  - **Fig. 9** (CDF of localization error) was generated directly in MATLAB.  
+  - **Fig. 10** was derived from CRLB outputs printed by `Fig_3_to_6_localization_across_N.m`.
 
-For the FCNN baseline, the referenced paper specifies only the number of layers, without detailing other architectural or training parameters. Therefore, hyperparameters such as the number of nodes per layer, activation functions, optimizer, and number of training epochs were selected based on performance observed across multiple experimental runs for K=225 training points.
+To ensure reproducibility, please **set the random number generator (`rng`) seed** to the value used in this repository.
 
-In our experimental setup, shadowing effects are modeled using a spatially correlated Gaussian process to reflect realistic signal behavior. The correlation between shadowing coefficients decays exponentially with distance, as specified by the model 
-ρ(d)=2^(−d/decorr), where decorr is a scenario-specific decorrelation distance (per 3GPP). A correlation matrix is incrementally built during the offline phase by computing pairwise distances between reference points (RPs), enabling the generation of correlated shadowing terms via conditional Gaussian statistics. For each new RP, the conditional mean and standard deviation are computed based on the existing shadowing values and their spatial correlations, following Theorem 10.2 from Steven Kay’s Estimation Theory (p. 325, a snippet is included in the repo). This process ensures that nearby points are more likely to exhibit similar shadowing, mimicking real-world wireless environments. During the online phase, the same procedure is applied to test points, maintaining consistency in spatial correlation. Implementation details follow the approach outlined in arXiv:2108.02541, particularly page 66, and are available in the accompanying GitHub repository. To better understand and experiment with this model, the MATLAB file shadowing_realisation_example.m illustrates how shadowing is realized in simulations and can be used for hands-on exploration.
+> **Note**: Full simulation runs can take several days. For convenience, **final results are included in the repository**.
 
+---
+
+## Generating Figure 9 (CDF of Localization Errors)
+
+1. **Run** `Fig9_CDF_Localization_error.m` to compute localization error data.
+2. **Then run** `Fig9_CDF_Localization_error_plot.m` to generate the CDF plot.  
+   Be sure to **update the variable name and plot title** to match the localization method being visualized.
+3. **Alternatively**, use the precomputed file `Fig9_CDF_Localization_error_plot.mat` to generate the plot directly without recomputation. This `.mat` file includes CDF data for **all methods**.
+
+---
+
+## Additional Methods (Not Discussed in Paper)
+
+The repository includes code for a **Distributed Mean + Z-Score filtering method** (not covered in the paper).  
+This method filters out outliers using z-score thresholding **before** averaging the position estimates. It achieves:
+- **Lower localization error** than the simple mean,
+- **Slightly higher error ellipse area** than the mean,
+- But **still significantly lower ellipse area** than the median.
+
+---
+
+## FCNN Baseline Notes
+
+The referenced FCNN baseline paper specifies only the **number of layers**, not the full architecture.  
+Therefore, the following hyperparameters were selected empirically based on performance at **K = 225** training points:
+- Number of nodes per layer
+- Activation functions
+- Optimizer
+- Number of training epochs
+
+---
+
+## Shadowing Model with Spatial Correlation
+
+In our setup, shadowing effects are modeled using a **spatially correlated Gaussian process** to reflect realistic wireless environments.
+
+- The correlation coefficient between two points is defined as:  
+  \[
+  \rho(d) = 2^{-\frac{d}{\text{decorr}}}
+  \]
+  where:
+  - *d* is the distance between points
+  - *decorr* is a decorrelation parameter (scenario-specific, per 3GPP)
+
+- A **correlation matrix** is built incrementally:
+  - Each new reference point (RP) computes distances to previous RPs
+  - Conditional **mean** and **standard deviation** are calculated using Theorem 10.2 from *Steven Kay's Estimation Theory* (p. 325 — snippet included in the repo)
+  - Shadowing terms are generated accordingly using **conditional Gaussian statistics**
+
+- During the **online phase**, the same model is used to compute shadowing at test points (TPs), maintaining spatial consistency.
+
+For a deeper understanding, see:
+- [`shadowing_realisation_example.m`](shadowing_realisation_example.m) – illustrates the shadowing process and is suitable for experimentation
+- [arXiv:2108.02541](https://arxiv.org/pdf/2108.02541) – especially page 66
+- MATLAB implementation of the full procedure is included in the repo
+
+---
+
+## License
+
+This repository is intended for academic and research use only. Please cite the original paper if you use the code.
+
+---
+
+For questions or contributions, feel free to open an issue or submit a pull request.
