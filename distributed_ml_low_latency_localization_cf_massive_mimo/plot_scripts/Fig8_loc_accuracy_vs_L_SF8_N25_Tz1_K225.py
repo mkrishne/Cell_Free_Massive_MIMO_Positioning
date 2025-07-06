@@ -45,10 +45,10 @@ distributed_zscore = [
 
 # Plotting
 plt.figure(figsize=(10, 6))
-plt.plot(L_values, centralised_rss, marker='o', label='Centralised-RSS',
+plt.plot(L_values, centralised_rss, marker='^', label='Centralised-RSS',
          color=color_map['Centralised RSS'])
 
-plt.plot(L_values, centralised_hybrid, marker='s', label='Centralised-Hybrid',
+plt.plot(L_values, centralised_hybrid, marker='^', label='Centralised-Hybrid',
          color=color_map['Centralised Hybrid'])
 
 plt.plot(L_values, centralised_aoa, marker='^', label='Centralised-AOA',
@@ -57,13 +57,13 @@ plt.plot(L_values, centralised_aoa, marker='^', label='Centralised-AOA',
 plt.plot(L_values, distributed_mean, marker='o', label='Distributed-Mean',
          color=color_map['Distributed Mean'])
 
-plt.plot(L_values, distributed_median, marker='d', label='Distributed-Median',
+plt.plot(L_values, distributed_median, marker='o', label='Distributed-Median',
          color=color_map['Distributed Median'])
 
 plt.plot(L_values, distributed_bayesian, marker='o', label='Distributed-Bayesian',
          color=color_map['Distributed Bayesian'])
 
-plt.plot(L_values, distributed_zscore, marker='x', label='Distributed-Z-score',
+plt.plot(L_values, distributed_zscore, marker='o', label='Distributed-Z-score',
          color=color_map['Distributed Zscore'])
 
 plt.xlabel('Number of APs (L)',fontsize=23)
