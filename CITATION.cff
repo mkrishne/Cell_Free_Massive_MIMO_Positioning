@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Distributed Machine Learning for Localization in Cell-Free Massive MIMO Systems"
+authors:
+  - family-names: Krishne Gowda
+    given-names: Manish Kumar
+    affiliation: "Purdue University"
+    orcid: "https://orcid.org/0009-0008-7289-8258"
+date-released: 2025-07-05
+version: 1.0.0
+doi: https://doi.org/10.48550/arXiv.2502.02512
+url: https://github.com/mkrishne/Cell_Free_Massive_MIMO_Positioning
