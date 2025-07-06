@@ -1,0 +1,9851 @@
+
+sigma_sf =
+
+   6.309573444801933
+
+
+aoa_sigma_offline =
+
+     2
+
+
+kernel_function = 
+
+    "squaredexponential"
+
+
+L =
+
+    25
+
+
+RP_positions_per_row =
+
+    15
+
+
+ant_number =
+
+     3
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0022
+C-AOA: 12.3965
+C-Hybrid: 11.1336
+D-Median: 6.2350
+D-Mean: 9.0308
+D-ZS TZ 0.6: 7.0575
+D-ZS TZ 0.8: 6.7259
+D-ZS TZ 1: 6.6782
+D-ZS TZ 1.2: 6.7869
+D-ZS TZ 1.4: 6.9803
+D-BAY: 8.1366
+D-ZS-BAY TZ 0.6: 7.0844
+D-ZS-BAY TZ 0.8: 6.8780
+D-ZS-BAY TZ 1: 6.9285
+D-ZS-BAY TZ 1.2: 7.0935
+D-ZS-BAY TZ 1.4: 7.3104
+C-Hybrid (CRLB): 4.0858
+C-AOA (CRLB): 4.1807
+D-Median (CRLB): 6.1719
+D-Mean (CRLB): 7.8037
+D-ZS TZ 1 (CRLB): 6.4437
+D-BAY (CRLB): 7.8769
+D-ZS-BAY TZ 1 (CRLB): 6.7625
+C-RSS (LR): 59.1728
+C-AOA (LR): 41.7361
+C-Hybrid (LR): 39.3743
+C-RSS-dB (LR): 19.5375
+C-Hybrid-dB (LR): 18.1008
+D-Median (LR dB): 47.0147
+C-AOA (LR CRLB): 36.3967
+C-Hybrid (LR CRLB): 34.5355
+C-Hybrid-dB (LR CRLB): 16.7860
+D-Median (LR dB CRLB): 47.0736
+C-RSS (WKNN): 18.7534
+C-AOA (WKNN): 9.3402
+C-Hybrid (WKNN): 9.3402
+C-RSS-dB (WKNN): 5.5672
+C-Hybrid-dB (WKNN): 9.1251
+D-Median (WKNN dB): 5.1439
+C-AOA (WKNN CRLB): 7.9409
+C-Hybrid-dB (WKNN CRLB): 7.9237
+D-Median (WKNN dB CRLB): 5.1158
+fcnn : 12.972596 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1561.6627
+C-AOA: 2133.8276
+C-Hybrid: 1449.8962
+D-Median: 6295.4739
+D-Mean: 342.6563
+D-ZS TZ 0.6: 535.5239
+D-ZS TZ 0.8: 440.0971
+D-ZS TZ 1: 390.9675
+D-ZS TZ 1.2: 363.2422
+D-ZS TZ 1.4: 346.6780
+D-BAY: 244.8340
+D-ZS-BAY TZ 0.6: 430.7785
+D-ZS-BAY TZ 0.8: 350.7846
+D-ZS-BAY TZ 1: 309.5185
+D-ZS-BAY TZ 1.2: 285.9475
+D-ZS-BAY TZ 1.4: 271.6409
+C-Hybrid (CRLB): 515.8001
+C-AOA (CRLB): 746.3251
+D-Median (CRLB): 6216.1014
+D-Mean (CRLB): 303.2168
+D-ZS TZ 1 (CRLB): 388.1982
+D-BAY (CRLB): 242.1286
+D-ZS-BAY TZ 1 (CRLB): 316.9090
+
+ant_number =
+
+     4
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 8.9982
+C-AOA: 10.5733
+C-Hybrid: 9.5870
+D-Median: 6.1668
+D-Mean: 8.7205
+D-ZS TZ 0.6: 6.9575
+D-ZS TZ 0.8: 6.6387
+D-ZS TZ 1: 6.5856
+D-ZS TZ 1.2: 6.6919
+D-ZS TZ 1.4: 6.8888
+D-BAY: 8.0421
+D-ZS-BAY TZ 0.6: 7.0019
+D-ZS-BAY TZ 0.8: 6.8066
+D-ZS-BAY TZ 1: 6.8533
+D-ZS-BAY TZ 1.2: 7.0211
+D-ZS-BAY TZ 1.4: 7.2436
+C-Hybrid (CRLB): 3.5249
+C-AOA (CRLB): 3.5293
+D-Median (CRLB): 6.0994
+D-Mean (CRLB): 7.6873
+D-ZS TZ 1 (CRLB): 6.3642
+D-BAY (CRLB): 7.8058
+D-ZS-BAY TZ 1 (CRLB): 6.6951
+C-RSS (LR): 59.2104
+C-AOA (LR): 39.8628
+C-Hybrid (LR): 37.7473
+C-RSS-dB (LR): 19.5382
+C-Hybrid-dB (LR): 17.6616
+D-Median (LR dB): 47.0306
+C-AOA (LR CRLB): 34.4170
+C-Hybrid (LR CRLB): 32.9966
+C-Hybrid-dB (LR CRLB): 16.1522
+D-Median (LR dB CRLB): 47.0736
+C-RSS (WKNN): 18.7535
+C-AOA (WKNN): 9.0328
+C-Hybrid (WKNN): 9.0328
+C-RSS-dB (WKNN): 5.5646
+C-Hybrid-dB (WKNN): 8.8585
+D-Median (WKNN dB): 5.0611
+C-AOA (WKNN CRLB): 7.7563
+C-Hybrid-dB (WKNN CRLB): 7.7681
+D-Median (WKNN dB CRLB): 5.0261
+fcnn : 11.395674 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1561.0479
+C-AOA: 1801.7773
+C-Hybrid: 1232.3250
+D-Median: 6273.3537
+D-Mean: 334.2278
+D-ZS TZ 0.6: 535.9049
+D-ZS TZ 0.8: 439.5403
+D-ZS TZ 1: 389.9506
+D-ZS TZ 1.2: 361.5090
+D-ZS TZ 1.4: 344.5242
+D-BAY: 244.1447
+D-ZS-BAY TZ 0.6: 433.4759
+D-ZS-BAY TZ 0.8: 352.2224
+D-ZS-BAY TZ 1: 310.3237
+D-ZS-BAY TZ 1.2: 286.2330
+D-ZS-BAY TZ 1.4: 271.6557
+C-Hybrid (CRLB): 411.6736
+C-AOA (CRLB): 609.6901
+D-Median (CRLB): 6208.1865
+D-Mean (CRLB): 302.1838
+D-ZS TZ 1 (CRLB): 388.4145
+D-BAY (CRLB): 241.9433
+D-ZS-BAY TZ 1 (CRLB): 317.0086
+
+ant_number =
+
+     5
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 8.9996
+C-AOA: 9.5338
+C-Hybrid: 8.6331
+D-Median: 6.1267
+D-Mean: 8.5242
+D-ZS TZ 0.6: 6.9076
+D-ZS TZ 0.8: 6.5938
+D-ZS TZ 1: 6.5355
+D-ZS TZ 1.2: 6.6449
+D-ZS TZ 1.4: 6.8456
+D-BAY: 7.9905
+D-ZS-BAY TZ 0.6: 6.9619
+D-ZS-BAY TZ 0.8: 6.7740
+D-ZS-BAY TZ 1: 6.8177
+D-ZS-BAY TZ 1.2: 6.9883
+D-ZS-BAY TZ 1.4: 7.2113
+C-Hybrid (CRLB): 3.2667
+C-AOA (CRLB): 3.2568
+D-Median (CRLB): 6.0548
+D-Mean (CRLB): 7.6337
+D-ZS TZ 1 (CRLB): 6.3320
+D-BAY (CRLB): 7.7710
+D-ZS-BAY TZ 1 (CRLB): 6.6685
+C-RSS (LR): 59.1933
+C-AOA (LR): 38.7451
+C-Hybrid (LR): 36.8122
+C-RSS-dB (LR): 19.5336
+C-Hybrid-dB (LR): 17.3375
+D-Median (LR dB): 47.0345
+C-AOA (LR CRLB): 33.3957
+C-Hybrid (LR CRLB): 32.1321
+C-Hybrid-dB (LR CRLB): 15.8803
+D-Median (LR dB CRLB): 47.0747
+C-RSS (WKNN): 18.7318
+C-AOA (WKNN): 8.8015
+C-Hybrid (WKNN): 8.8015
+C-RSS-dB (WKNN): 5.5614
+C-Hybrid-dB (WKNN): 8.6624
+D-Median (WKNN dB): 5.0193
+C-AOA (WKNN CRLB): 7.6592
+C-Hybrid-dB (WKNN CRLB): 7.6875
+D-Median (WKNN dB CRLB): 4.9921
+fcnn : 10.183187 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1561.5101
+C-AOA: 1588.3021
+C-Hybrid: 1085.4959
+D-Median: 6250.9692
+D-Mean: 329.4517
+D-ZS TZ 0.6: 537.1443
+D-ZS TZ 0.8: 439.9075
+D-ZS TZ 1: 389.6693
+D-ZS TZ 1.2: 360.8029
+D-ZS TZ 1.4: 343.4429
+D-BAY: 243.9524
+D-ZS-BAY TZ 0.6: 435.9639
+D-ZS-BAY TZ 0.8: 353.7959
+D-ZS-BAY TZ 1: 311.2927
+D-ZS-BAY TZ 1.2: 286.8363
+D-ZS-BAY TZ 1.4: 271.9826
+C-Hybrid (CRLB): 340.9721
+C-AOA (CRLB): 530.7483
+D-Median (CRLB): 6196.7979
+D-Mean (CRLB): 301.7581
+D-ZS TZ 1 (CRLB): 388.5421
+D-BAY (CRLB): 242.0693
+D-ZS-BAY TZ 1 (CRLB): 317.2712
+
+ant_number =
+
+     6
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 8.9984
+C-AOA: 8.6364
+C-Hybrid: 7.9190
+D-Median: 6.0935
+D-Mean: 8.3810
+D-ZS TZ 0.6: 6.8638
+D-ZS TZ 0.8: 6.5509
+D-ZS TZ 1: 6.4951
+D-ZS TZ 1.2: 6.5911
+D-ZS TZ 1.4: 6.7974
+D-BAY: 7.9486
+D-ZS-BAY TZ 0.6: 6.9296
+D-ZS-BAY TZ 0.8: 6.7433
+D-ZS-BAY TZ 1: 6.7832
+D-ZS-BAY TZ 1.2: 6.9527
+D-ZS-BAY TZ 1.4: 7.1810
+C-Hybrid (CRLB): 3.0659
+C-AOA (CRLB): 3.0040
+D-Median (CRLB): 6.0282
+D-Mean (CRLB): 7.6011
+D-ZS TZ 1 (CRLB): 6.3066
+D-BAY (CRLB): 7.7536
+D-ZS-BAY TZ 1 (CRLB): 6.6454
+C-RSS (LR): 59.1596
+C-AOA (LR): 37.9912
+C-Hybrid (LR): 36.0357
+C-RSS-dB (LR): 19.5322
+C-Hybrid-dB (LR): 17.0593
+D-Median (LR dB): 47.0409
+C-AOA (LR CRLB): 33.0248
+C-Hybrid (LR CRLB): 31.8342
+C-Hybrid-dB (LR CRLB): 15.7486
+D-Median (LR dB CRLB): 47.0723
+C-RSS (WKNN): 18.7380
+C-AOA (WKNN): 8.6393
+C-Hybrid (WKNN): 8.6393
+C-RSS-dB (WKNN): 5.5649
+C-Hybrid-dB (WKNN): 8.5193
+D-Median (WKNN dB): 4.9999
+C-AOA (WKNN CRLB): 7.5911
+C-Hybrid-dB (WKNN CRLB): 7.6215
+D-Median (WKNN dB CRLB): 4.9595
+fcnn : 9.421949 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1559.8311
+C-AOA: 1442.1122
+C-Hybrid: 984.8125
+D-Median: 6246.1864
+D-Mean: 325.3443
+D-ZS TZ 0.6: 537.5924
+D-ZS TZ 0.8: 439.8629
+D-ZS TZ 1: 389.1553
+D-ZS TZ 1.2: 359.9960
+D-ZS TZ 1.4: 342.4048
+D-BAY: 243.5138
+D-ZS-BAY TZ 0.6: 437.1173
+D-ZS-BAY TZ 0.8: 354.4843
+D-ZS-BAY TZ 1: 311.5519
+D-ZS-BAY TZ 1.2: 286.8751
+D-ZS-BAY TZ 1.4: 271.9324
+C-Hybrid (CRLB): 302.8424
+C-AOA (CRLB): 482.1401
+D-Median (CRLB): 6199.4637
+D-Mean (CRLB): 301.3423
+D-ZS TZ 1 (CRLB): 388.3879
+D-BAY (CRLB): 241.8713
+D-ZS-BAY TZ 1 (CRLB): 317.0264
+
+ant_number =
+
+     8
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0064
+C-AOA: 7.6176
+C-Hybrid: 7.0104
+D-Median: 6.0696
+D-Mean: 8.2339
+D-ZS TZ 0.6: 6.8268
+D-ZS TZ 0.8: 6.5217
+D-ZS TZ 1: 6.4533
+D-ZS TZ 1.2: 6.5612
+D-ZS TZ 1.4: 6.7643
+D-BAY: 7.9036
+D-ZS-BAY TZ 0.6: 6.8864
+D-ZS-BAY TZ 0.8: 6.7108
+D-ZS-BAY TZ 1: 6.7460
+D-ZS-BAY TZ 1.2: 6.9184
+D-ZS-BAY TZ 1.4: 7.1506
+C-Hybrid (CRLB): 2.8828
+C-AOA (CRLB): 2.8069
+D-Median (CRLB): 5.9928
+D-Mean (CRLB): 7.5684
+D-ZS TZ 1 (CRLB): 6.2793
+D-BAY (CRLB): 7.7324
+D-ZS-BAY TZ 1 (CRLB): 6.6221
+C-RSS (LR): 59.1631
+C-AOA (LR): 37.2321
+C-Hybrid (LR): 35.3730
+C-RSS-dB (LR): 19.5300
+C-Hybrid-dB (LR): 16.8205
+D-Median (LR dB): 47.0467
+C-AOA (LR CRLB): 32.6741
+C-Hybrid (LR CRLB): 31.5179
+C-Hybrid-dB (LR CRLB): 15.6422
+D-Median (LR dB CRLB): 47.0712
+C-RSS (WKNN): 18.7379
+C-AOA (WKNN): 8.4679
+C-Hybrid (WKNN): 8.4679
+C-RSS-dB (WKNN): 5.5627
+C-Hybrid-dB (WKNN): 8.3720
+D-Median (WKNN dB): 4.9742
+C-AOA (WKNN CRLB): 7.5420
+C-Hybrid-dB (WKNN CRLB): 7.5843
+D-Median (WKNN dB CRLB): 4.9350
+fcnn : 8.345975
+
+
+Average Error Ellipse Areas:
+C-RSS: 1558.3192
+C-AOA: 1272.7654
+C-Hybrid: 873.2705
+D-Median: 6230.1560
+D-Mean: 321.3055
+D-ZS TZ 0.6: 538.7589
+D-ZS TZ 0.8: 440.1455
+D-ZS TZ 1: 388.8549
+D-ZS TZ 1.2: 359.3814
+D-ZS TZ 1.4: 341.4813
+D-BAY: 243.3335
+D-ZS-BAY TZ 0.6: 439.8143
+D-ZS-BAY TZ 0.8: 356.2209
+D-ZS-BAY TZ 1: 312.6158
+D-ZS-BAY TZ 1.2: 287.5476
+D-ZS-BAY TZ 1.4: 272.2617
+C-Hybrid (CRLB): 264.5375
+C-AOA (CRLB): 435.3261
+D-Median (CRLB): 6186.0659
+D-Mean (CRLB): 301.0552
+D-ZS TZ 1 (CRLB): 388.4308
+D-BAY (CRLB): 241.9793
+D-ZS-BAY TZ 1 (CRLB): 317.1582
+
+ant_number =
+
+    10
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0017
+C-AOA: 6.8985
+C-Hybrid: 6.3724
+D-Median: 6.0471
+D-Mean: 8.1225
+D-ZS TZ 0.6: 6.7951
+D-ZS TZ 0.8: 6.4929
+D-ZS TZ 1: 6.4165
+D-ZS TZ 1.2: 6.5155
+D-ZS TZ 1.4: 6.7213
+D-BAY: 7.8678
+D-ZS-BAY TZ 0.6: 6.8715
+D-ZS-BAY TZ 0.8: 6.6924
+D-ZS-BAY TZ 1: 6.7246
+D-ZS-BAY TZ 1.2: 6.8956
+D-ZS-BAY TZ 1.4: 7.1286
+C-Hybrid (CRLB): 2.7909
+C-AOA (CRLB): 2.6979
+D-Median (CRLB): 5.9743
+D-Mean (CRLB): 7.5463
+D-ZS TZ 1 (CRLB): 6.2634
+D-BAY (CRLB): 7.7195
+D-ZS-BAY TZ 1 (CRLB): 6.6117
+C-RSS (LR): 59.1408
+C-AOA (LR): 36.3444
+C-Hybrid (LR): 34.6596
+C-RSS-dB (LR): 19.5294
+C-Hybrid-dB (LR): 16.6245
+D-Median (LR dB): 47.0505
+C-AOA (LR CRLB): 32.3357
+C-Hybrid (LR CRLB): 31.1728
+C-Hybrid-dB (LR CRLB): 15.5596
+D-Median (LR dB CRLB): 47.0701
+C-RSS (WKNN): 18.7492
+C-AOA (WKNN): 8.3207
+C-Hybrid (WKNN): 8.3207
+C-RSS-dB (WKNN): 5.5608
+C-Hybrid-dB (WKNN): 8.2477
+D-Median (WKNN dB): 4.9703
+C-AOA (WKNN CRLB): 7.5029
+C-Hybrid-dB (WKNN CRLB): 7.5483
+D-Median (WKNN dB CRLB): 4.9215
+fcnn : 7.762053 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1556.4082
+C-AOA: 1135.3571
+C-Hybrid: 782.3099
+D-Median: 6231.0322
+D-Mean: 318.0320
+D-ZS TZ 0.6: 540.0981
+D-ZS TZ 0.8: 440.6210
+D-ZS TZ 1: 388.7685
+D-ZS TZ 1.2: 358.9020
+D-ZS TZ 1.4: 340.7466
+D-BAY: 243.0125
+D-ZS-BAY TZ 0.6: 441.3891
+D-ZS-BAY TZ 0.8: 357.0208
+D-ZS-BAY TZ 1: 313.0130
+D-ZS-BAY TZ 1.2: 287.6837
+D-ZS-BAY TZ 1.4: 272.2451
+C-Hybrid (CRLB): 242.9572
+C-AOA (CRLB): 405.1031
+D-Median (CRLB): 6190.4317
+D-Mean (CRLB): 300.8532
+D-ZS TZ 1 (CRLB): 388.4290
+D-BAY (CRLB): 241.8381
+D-ZS-BAY TZ 1 (CRLB): 317.0035
+
+ant_number =
+
+    12
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0080
+C-AOA: 6.3907
+C-Hybrid: 5.9581
+D-Median: 6.0411
+D-Mean: 8.0374
+D-ZS TZ 0.6: 6.7829
+D-ZS TZ 0.8: 6.4830
+D-ZS TZ 1: 6.3991
+D-ZS TZ 1.2: 6.4922
+D-ZS TZ 1.4: 6.6975
+D-BAY: 7.8518
+D-ZS-BAY TZ 0.6: 6.8617
+D-ZS-BAY TZ 0.8: 6.6863
+D-ZS-BAY TZ 1: 6.7137
+D-ZS-BAY TZ 1.2: 6.8836
+D-ZS-BAY TZ 1.4: 7.1182
+C-Hybrid (CRLB): 2.7688
+C-AOA (CRLB): 2.6762
+D-Median (CRLB): 5.9573
+D-Mean (CRLB): 7.5385
+D-ZS TZ 1 (CRLB): 6.2555
+D-BAY (CRLB): 7.7133
+D-ZS-BAY TZ 1 (CRLB): 6.6024
+C-RSS (LR): 59.1717
+C-AOA (LR): 35.8770
+C-Hybrid (LR): 34.2820
+C-RSS-dB (LR): 19.5252
+C-Hybrid-dB (LR): 16.5189
+D-Median (LR dB): 47.0586
+C-AOA (LR CRLB): 32.2326
+C-Hybrid (LR CRLB): 31.1608
+C-Hybrid-dB (LR CRLB): 15.5354
+D-Median (LR dB CRLB): 47.0752
+C-RSS (WKNN): 18.7366
+C-AOA (WKNN): 8.2348
+C-Hybrid (WKNN): 8.2348
+C-RSS-dB (WKNN): 5.5556
+C-Hybrid-dB (WKNN): 8.1702
+D-Median (WKNN dB): 4.9726
+C-AOA (WKNN CRLB): 7.4977
+C-Hybrid-dB (WKNN CRLB): 7.5416
+D-Median (WKNN dB CRLB): 4.9116
+fcnn : 7.368658 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1558.6975
+C-AOA: 1036.8017
+C-Hybrid: 715.8262
+D-Median: 6219.5267
+D-Mean: 316.2871
+D-ZS TZ 0.6: 541.5008
+D-ZS TZ 0.8: 441.3175
+D-ZS TZ 1: 389.0016
+D-ZS TZ 1.2: 358.8262
+D-ZS TZ 1.4: 340.4634
+D-BAY: 242.9883
+D-ZS-BAY TZ 0.6: 443.2629
+D-ZS-BAY TZ 0.8: 358.1458
+D-ZS-BAY TZ 1: 313.6768
+D-ZS-BAY TZ 1.2: 288.0848
+D-ZS-BAY TZ 1.4: 272.4794
+C-Hybrid (CRLB): 236.5973
+C-AOA (CRLB): 400.0009
+D-Median (CRLB): 6186.0212
+D-Mean (CRLB): 300.8935
+D-ZS TZ 1 (CRLB): 388.5231
+D-BAY (CRLB): 241.9535
+D-ZS-BAY TZ 1 (CRLB): 317.1739
+
+ant_number =
+
+    15
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 8.9947
+C-AOA: 5.9577
+C-Hybrid: 5.5559
+D-Median: 6.0746
+D-Mean: 7.9812
+D-ZS TZ 0.6: 6.7949
+D-ZS TZ 0.8: 6.4966
+D-ZS TZ 1: 6.4057
+D-ZS TZ 1.2: 6.4915
+D-ZS TZ 1.4: 6.6978
+D-BAY: 7.8358
+D-ZS-BAY TZ 0.6: 6.8688
+D-ZS-BAY TZ 0.8: 6.6919
+D-ZS-BAY TZ 1: 6.7118
+D-ZS-BAY TZ 1.2: 6.8752
+D-ZS-BAY TZ 1.4: 7.1083
+C-Hybrid (CRLB): 2.7110
+C-AOA (CRLB): 2.6098
+D-Median (CRLB): 5.9554
+D-Mean (CRLB): 7.5284
+D-ZS TZ 1 (CRLB): 6.2504
+D-BAY (CRLB): 7.7086
+D-ZS-BAY TZ 1 (CRLB): 6.5966
+C-RSS (LR): 59.1381
+C-AOA (LR): 35.3730
+C-Hybrid (LR): 33.9399
+C-RSS-dB (LR): 19.5227
+C-Hybrid-dB (LR): 16.3482
+D-Median (LR dB): 47.0611
+C-AOA (LR CRLB): 32.1584
+C-Hybrid (LR CRLB): 31.1457
+C-Hybrid-dB (LR CRLB): 15.4947
+D-Median (LR dB CRLB): 47.0734
+C-RSS (WKNN): 18.7122
+C-AOA (WKNN): 8.1768
+C-Hybrid (WKNN): 8.1768
+C-RSS-dB (WKNN): 5.5635
+C-Hybrid-dB (WKNN): 8.1174
+D-Median (WKNN dB): 5.0019
+C-AOA (WKNN CRLB): 7.4864
+C-Hybrid-dB (WKNN CRLB): 7.5365
+D-Median (WKNN dB CRLB): 4.9049
+fcnn : 6.863254
+
+
+Average Error Ellipse Areas:
+C-RSS: 1557.9748
+C-AOA: 958.5679
+C-Hybrid: 660.6409
+D-Median: 6232.6267
+D-Mean: 314.0033
+D-ZS TZ 0.6: 543.1345
+D-ZS TZ 0.8: 442.0912
+D-ZS TZ 1: 389.0425
+D-ZS TZ 1.2: 358.5378
+D-ZS TZ 1.4: 339.9177
+D-BAY: 242.8006
+D-ZS-BAY TZ 0.6: 445.1197
+D-ZS-BAY TZ 0.8: 359.1792
+D-ZS-BAY TZ 1: 314.1892
+D-ZS-BAY TZ 1.2: 288.2795
+D-ZS-BAY TZ 1.4: 272.5178
+C-Hybrid (CRLB): 223.0908
+C-AOA (CRLB): 383.5346
+D-Median (CRLB): 6180.9083
+D-Mean (CRLB): 300.6868
+D-ZS TZ 1 (CRLB): 388.4376
+D-BAY (CRLB): 241.8820
+D-ZS-BAY TZ 1 (CRLB): 317.0251
+
+ant_number =
+
+    17
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0031
+C-AOA: 5.7590
+C-Hybrid: 5.3896
+D-Median: 6.0925
+D-Mean: 7.9478
+D-ZS TZ 0.6: 6.8018
+D-ZS TZ 0.8: 6.5027
+D-ZS TZ 1: 6.4109
+D-ZS TZ 1.2: 6.5007
+D-ZS TZ 1.4: 6.7021
+D-BAY: 7.8345
+D-ZS-BAY TZ 0.6: 6.8854
+D-ZS-BAY TZ 0.8: 6.7079
+D-ZS-BAY TZ 1: 6.7247
+D-ZS-BAY TZ 1.2: 6.8850
+D-ZS-BAY TZ 1.4: 7.1164
+C-Hybrid (CRLB): 2.6956
+C-AOA (CRLB): 2.5927
+D-Median (CRLB): 5.9546
+D-Mean (CRLB): 7.5291
+D-ZS TZ 1 (CRLB): 6.2489
+D-BAY (CRLB): 7.7064
+D-ZS-BAY TZ 1 (CRLB): 6.5966
+C-RSS (LR): 59.1893
+C-AOA (LR): 35.2555
+C-Hybrid (LR): 33.7963
+C-RSS-dB (LR): 19.5173
+C-Hybrid-dB (LR): 16.3156
+D-Median (LR dB): 47.0602
+C-AOA (LR CRLB): 32.1652
+C-Hybrid (LR CRLB): 31.1297
+C-Hybrid-dB (LR CRLB): 15.4992
+D-Median (LR dB CRLB): 47.0722
+C-RSS (WKNN): 18.7173
+C-AOA (WKNN): 8.1408
+C-Hybrid (WKNN): 8.1408
+C-RSS-dB (WKNN): 5.5586
+C-Hybrid-dB (WKNN): 8.0847
+D-Median (WKNN dB): 5.0298
+C-AOA (WKNN CRLB): 7.4766
+C-Hybrid-dB (WKNN CRLB): 7.5200
+D-Median (WKNN dB CRLB): 4.9055
+fcnn : 6.579629 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1563.3138
+C-AOA: 904.9014
+C-Hybrid: 627.4929
+D-Median: 6236.4823
+D-Mean: 312.4718
+D-ZS TZ 0.6: 544.8351
+D-ZS TZ 0.8: 442.5304
+D-ZS TZ 1: 389.1071
+D-ZS TZ 1.2: 358.2656
+D-ZS TZ 1.4: 339.5851
+D-BAY: 242.7055
+D-ZS-BAY TZ 0.6: 446.8937
+D-ZS-BAY TZ 0.8: 359.9708
+D-ZS-BAY TZ 1: 314.5131
+D-ZS-BAY TZ 1.2: 288.3794
+D-ZS-BAY TZ 1.4: 272.5207
+C-Hybrid (CRLB): 217.9998
+C-AOA (CRLB): 376.9288
+D-Median (CRLB): 6173.4446
+D-Mean (CRLB): 300.4815
+D-ZS TZ 1 (CRLB): 388.1829
+D-BAY (CRLB): 241.8407
+D-ZS-BAY TZ 1 (CRLB): 316.9819
+
+ant_number =
+
+    19
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0036
+C-AOA: 5.6159
+C-Hybrid: 5.2403
+D-Median: 6.1199
+D-Mean: 7.9287
+D-ZS TZ 0.6: 6.8131
+D-ZS TZ 0.8: 6.5150
+D-ZS TZ 1: 6.4225
+D-ZS TZ 1.2: 6.5004
+D-ZS TZ 1.4: 6.7038
+D-BAY: 7.8344
+D-ZS-BAY TZ 0.6: 6.9036
+D-ZS-BAY TZ 0.8: 6.7230
+D-ZS-BAY TZ 1: 6.7355
+D-ZS-BAY TZ 1.2: 6.8901
+D-ZS-BAY TZ 1.4: 7.1176
+C-Hybrid (CRLB): 2.6796
+C-AOA (CRLB): 2.5747
+D-Median (CRLB): 5.9476
+D-Mean (CRLB): 7.5269
+D-ZS TZ 1 (CRLB): 6.2507
+D-BAY (CRLB): 7.7073
+D-ZS-BAY TZ 1 (CRLB): 6.5979
+C-RSS (LR): 59.1434
+C-AOA (LR): 34.9286
+C-Hybrid (LR): 33.5842
+C-RSS-dB (LR): 19.5249
+C-Hybrid-dB (LR): 16.2300
+D-Median (LR dB): 47.0593
+C-AOA (LR CRLB): 32.0920
+C-Hybrid (LR CRLB): 31.0506
+C-Hybrid-dB (LR CRLB): 15.4645
+D-Median (LR dB CRLB): 47.0712
+C-RSS (WKNN): 18.7500
+C-AOA (WKNN): 8.1121
+C-Hybrid (WKNN): 8.1121
+C-RSS-dB (WKNN): 5.5518
+C-Hybrid-dB (WKNN): 8.0541
+D-Median (WKNN dB): 5.0558
+C-AOA (WKNN CRLB): 7.4666
+C-Hybrid-dB (WKNN CRLB): 7.5208
+D-Median (WKNN dB CRLB): 4.8980
+fcnn : 6.517370
+
+
+Average Error Ellipse Areas:
+C-RSS: 1559.6990
+C-AOA: 869.5939
+C-Hybrid: 607.0640
+D-Median: 6242.7825
+D-Mean: 312.2500
+D-ZS TZ 0.6: 546.2775
+D-ZS TZ 0.8: 443.6166
+D-ZS TZ 1: 389.6307
+D-ZS TZ 1.2: 358.5558
+D-ZS TZ 1.4: 339.6101
+D-BAY: 242.7524
+D-ZS-BAY TZ 0.6: 448.4662
+D-ZS-BAY TZ 0.8: 360.9794
+D-ZS-BAY TZ 1: 315.0611
+D-ZS-BAY TZ 1.2: 288.6950
+D-ZS-BAY TZ 1.4: 272.7165
+C-Hybrid (CRLB): 216.9383
+C-AOA (CRLB): 375.3027
+D-Median (CRLB): 6190.2691
+D-Mean (CRLB): 300.6561
+D-ZS TZ 1 (CRLB): 388.4762
+D-BAY (CRLB): 241.9368
+D-ZS-BAY TZ 1 (CRLB): 317.0776
+
+ant_number =
+
+    21
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0116
+C-AOA: 5.4792
+C-Hybrid: 5.1470
+D-Median: 6.1236
+D-Mean: 7.9113
+D-ZS TZ 0.6: 6.8216
+D-ZS TZ 0.8: 6.5186
+D-ZS TZ 1: 6.4163
+D-ZS TZ 1.2: 6.5037
+D-ZS TZ 1.4: 6.6990
+D-BAY: 7.8316
+D-ZS-BAY TZ 0.6: 6.9018
+D-ZS-BAY TZ 0.8: 6.7263
+D-ZS-BAY TZ 1: 6.7327
+D-ZS-BAY TZ 1.2: 6.8893
+D-ZS-BAY TZ 1.4: 7.1179
+C-Hybrid (CRLB): 2.7096
+C-AOA (CRLB): 2.5869
+D-Median (CRLB): 5.9438
+D-Mean (CRLB): 7.5248
+D-ZS TZ 1 (CRLB): 6.2409
+D-BAY (CRLB): 7.7028
+D-ZS-BAY TZ 1 (CRLB): 6.5914
+C-RSS (LR): 59.1514
+C-AOA (LR): 34.8404
+C-Hybrid (LR): 33.4515
+C-RSS-dB (LR): 19.5196
+C-Hybrid-dB (LR): 16.1738
+D-Median (LR dB): 47.0648
+C-AOA (LR CRLB): 32.1133
+C-Hybrid (LR CRLB): 31.1009
+C-Hybrid-dB (LR CRLB): 15.4640
+D-Median (LR dB CRLB): 47.0756
+C-RSS (WKNN): 18.7278
+C-AOA (WKNN): 8.1007
+C-Hybrid (WKNN): 8.1007
+C-RSS-dB (WKNN): 5.5550
+C-Hybrid-dB (WKNN): 8.0403
+D-Median (WKNN dB): 5.0707
+C-AOA (WKNN CRLB): 7.4779
+C-Hybrid-dB (WKNN CRLB): 7.5227
+D-Median (WKNN dB CRLB): 4.8937
+fcnn : 6.414308 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1554.6534
+C-AOA: 848.8472
+C-Hybrid: 589.4853
+D-Median: 6243.7959
+D-Mean: 311.5312
+D-ZS TZ 0.6: 547.6570
+D-ZS TZ 0.8: 444.1275
+D-ZS TZ 1: 389.8885
+D-ZS TZ 1.2: 358.5263
+D-ZS TZ 1.4: 339.5162
+D-BAY: 242.6358
+D-ZS-BAY TZ 0.6: 449.2352
+D-ZS-BAY TZ 0.8: 361.3724
+D-ZS-BAY TZ 1: 315.2544
+D-ZS-BAY TZ 1.2: 288.7298
+D-ZS-BAY TZ 1.4: 272.6850
+C-Hybrid (CRLB): 216.0493
+C-AOA (CRLB): 373.8202
+D-Median (CRLB): 6173.9463
+D-Mean (CRLB): 300.6312
+D-ZS TZ 1 (CRLB): 388.4608
+D-BAY (CRLB): 241.8471
+D-ZS-BAY TZ 1 (CRLB): 317.0398
+
+ant_number =
+
+    25
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 8.9987
+C-AOA: 5.2896
+C-Hybrid: 4.9550
+D-Median: 6.1383
+D-Mean: 7.8777
+D-ZS TZ 0.6: 6.8214
+D-ZS TZ 0.8: 6.5299
+D-ZS TZ 1: 6.4203
+D-ZS TZ 1.2: 6.4999
+D-ZS TZ 1.4: 6.6976
+D-BAY: 7.8281
+D-ZS-BAY TZ 0.6: 6.9201
+D-ZS-BAY TZ 0.8: 6.7408
+D-ZS-BAY TZ 1: 6.7382
+D-ZS-BAY TZ 1.2: 6.8901
+D-ZS-BAY TZ 1.4: 7.1192
+C-Hybrid (CRLB): 2.6637
+C-AOA (CRLB): 2.5621
+D-Median (CRLB): 5.9405
+D-Mean (CRLB): 7.5193
+D-ZS TZ 1 (CRLB): 6.2387
+D-BAY (CRLB): 7.7030
+D-ZS-BAY TZ 1 (CRLB): 6.5920
+C-RSS (LR): 59.1297
+C-AOA (LR): 34.5419
+C-Hybrid (LR): 33.1146
+C-RSS-dB (LR): 19.5197
+C-Hybrid-dB (LR): 16.1176
+D-Median (LR dB): 47.0646
+C-AOA (LR CRLB): 32.0590
+C-Hybrid (LR CRLB): 31.0015
+C-Hybrid-dB (LR CRLB): 15.4717
+D-Median (LR dB CRLB): 47.0726
+C-RSS (WKNN): 18.7446
+C-AOA (WKNN): 8.0805
+C-Hybrid (WKNN): 8.0805
+C-RSS-dB (WKNN): 5.5557
+C-Hybrid-dB (WKNN): 8.0126
+D-Median (WKNN dB): 5.0910
+C-AOA (WKNN CRLB): 7.4682
+C-Hybrid-dB (WKNN CRLB): 7.5218
+D-Median (WKNN dB CRLB): 4.8921
+fcnn : 6.253715 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1562.5564
+C-AOA: 801.6391
+C-Hybrid: 559.4591
+D-Median: 6257.9727
+D-Mean: 310.1729
+D-ZS TZ 0.6: 548.5590
+D-ZS TZ 0.8: 444.8686
+D-ZS TZ 1: 389.9476
+D-ZS TZ 1.2: 358.4833
+D-ZS TZ 1.4: 339.3225
+D-BAY: 242.7065
+D-ZS-BAY TZ 0.6: 450.8250
+D-ZS-BAY TZ 0.8: 362.3348
+D-ZS-BAY TZ 1: 315.8543
+D-ZS-BAY TZ 1.2: 289.1318
+D-ZS-BAY TZ 1.4: 272.9226
+C-Hybrid (CRLB): 212.3441
+C-AOA (CRLB): 370.4627
+D-Median (CRLB): 6180.5694
+D-Mean (CRLB): 300.6122
+D-ZS TZ 1 (CRLB): 388.4299
+D-BAY (CRLB): 241.9950
+D-ZS-BAY TZ 1 (CRLB): 317.1256
+
+ant_number =
+
+    30
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0084
+C-AOA: 5.0292
+C-Hybrid: 4.7592
+D-Median: 6.1458
+D-Mean: 7.8556
+D-ZS TZ 0.6: 6.8280
+D-ZS TZ 0.8: 6.5294
+D-ZS TZ 1: 6.4223
+D-ZS TZ 1.2: 6.4987
+D-ZS TZ 1.4: 6.6971
+D-BAY: 7.8229
+D-ZS-BAY TZ 0.6: 6.9107
+D-ZS-BAY TZ 0.8: 6.7311
+D-ZS-BAY TZ 1: 6.7390
+D-ZS-BAY TZ 1.2: 6.8884
+D-ZS-BAY TZ 1.4: 7.1209
+C-Hybrid (CRLB): 2.6654
+C-AOA (CRLB): 2.5205
+D-Median (CRLB): 5.9402
+D-Mean (CRLB): 7.5193
+D-ZS TZ 1 (CRLB): 6.2395
+D-BAY (CRLB): 7.6987
+D-ZS-BAY TZ 1 (CRLB): 6.5868
+C-RSS (LR): 59.1219
+C-AOA (LR): 34.3349
+C-Hybrid (LR): 32.9829
+C-RSS-dB (LR): 19.5175
+C-Hybrid-dB (LR): 16.0841
+D-Median (LR dB): 47.0653
+C-AOA (LR CRLB): 32.0727
+C-Hybrid (LR CRLB): 31.0281
+C-Hybrid-dB (LR CRLB): 15.4802
+D-Median (LR dB CRLB): 47.0720
+C-RSS (WKNN): 18.7044
+C-AOA (WKNN): 8.0530
+C-Hybrid (WKNN): 8.0530
+C-RSS-dB (WKNN): 5.5495
+C-Hybrid-dB (WKNN): 7.9868
+D-Median (WKNN dB): 5.1108
+C-AOA (WKNN CRLB): 7.4697
+C-Hybrid-dB (WKNN CRLB): 7.5148
+D-Median (WKNN dB CRLB): 4.8878
+fcnn : 6.072018
+
+
+Average Error Ellipse Areas:
+C-RSS: 1560.8379
+C-AOA: 756.5806
+C-Hybrid: 528.5258
+D-Median: 6246.7758
+D-Mean: 309.2882
+D-ZS TZ 0.6: 549.5536
+D-ZS TZ 0.8: 445.1240
+D-ZS TZ 1: 390.0827
+D-ZS TZ 1.2: 358.3314
+D-ZS TZ 1.4: 339.0709
+D-BAY: 242.4597
+D-ZS-BAY TZ 0.6: 451.3828
+D-ZS-BAY TZ 0.8: 362.6971
+D-ZS-BAY TZ 1: 315.9571
+D-ZS-BAY TZ 1.2: 289.0655
+D-ZS-BAY TZ 1.4: 272.7631
+C-Hybrid (CRLB): 211.3052
+C-AOA (CRLB): 369.1582
+D-Median (CRLB): 6183.5587
+D-Mean (CRLB): 300.4767
+D-ZS TZ 1 (CRLB): 388.2874
+D-BAY (CRLB): 241.7919
+D-ZS-BAY TZ 1 (CRLB): 316.8421
+
+ant_number =
+
+    35
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0056
+C-AOA: 4.9572
+C-Hybrid: 4.6735
+D-Median: 6.1493
+D-Mean: 7.8456
+D-ZS TZ 0.6: 6.8230
+D-ZS TZ 0.8: 6.5285
+D-ZS TZ 1: 6.4212
+D-ZS TZ 1.2: 6.5010
+D-ZS TZ 1.4: 6.6984
+D-BAY: 7.8234
+D-ZS-BAY TZ 0.6: 6.9185
+D-ZS-BAY TZ 0.8: 6.7462
+D-ZS-BAY TZ 1: 6.7436
+D-ZS-BAY TZ 1.2: 6.8960
+D-ZS-BAY TZ 1.4: 7.1257
+C-Hybrid (CRLB): 2.6537
+C-AOA (CRLB): 2.5471
+D-Median (CRLB): 5.9347
+D-Mean (CRLB): 7.5207
+D-ZS TZ 1 (CRLB): 6.2358
+D-BAY (CRLB): 7.7013
+D-ZS-BAY TZ 1 (CRLB): 6.5938
+C-RSS (LR): 59.1417
+C-AOA (LR): 34.2186
+C-Hybrid (LR): 32.8843
+C-RSS-dB (LR): 19.5187
+C-Hybrid-dB (LR): 16.0268
+D-Median (LR dB): 47.0664
+C-AOA (LR CRLB): 32.0554
+C-Hybrid (LR CRLB): 31.0218
+C-Hybrid-dB (LR CRLB): 15.4587
+D-Median (LR dB CRLB): 47.0739
+C-RSS (WKNN): 18.7451
+C-AOA (WKNN): 8.0359
+C-Hybrid (WKNN): 8.0359
+C-RSS-dB (WKNN): 5.5530
+C-Hybrid-dB (WKNN): 7.9692
+D-Median (WKNN dB): 5.1220
+C-AOA (WKNN CRLB): 7.4703
+C-Hybrid-dB (WKNN CRLB): 7.5155
+D-Median (WKNN dB CRLB): 4.8864
+fcnn : 5.901977 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1557.9924
+C-AOA: 737.3459
+C-Hybrid: 515.3087
+D-Median: 6248.6076
+D-Mean: 308.7666
+D-ZS TZ 0.6: 550.7712
+D-ZS TZ 0.8: 446.0631
+D-ZS TZ 1: 390.7387
+D-ZS TZ 1.2: 358.7092
+D-ZS TZ 1.4: 339.2978
+D-BAY: 242.4903
+D-ZS-BAY TZ 0.6: 452.1759
+D-ZS-BAY TZ 0.8: 363.1878
+D-ZS-BAY TZ 1: 316.2788
+D-ZS-BAY TZ 1.2: 289.2984
+D-ZS-BAY TZ 1.4: 272.9070
+C-Hybrid (CRLB): 212.1260
+C-AOA (CRLB): 368.0153
+D-Median (CRLB): 6182.7108
+D-Mean (CRLB): 300.6680
+D-ZS TZ 1 (CRLB): 388.5482
+D-BAY (CRLB): 241.8645
+D-ZS-BAY TZ 1 (CRLB): 316.9240
+
+ant_number =
+
+    40
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0030
+C-AOA: 4.8688
+C-Hybrid: 4.6069
+D-Median: 6.1545
+D-Mean: 7.8345
+D-ZS TZ 0.6: 6.8295
+D-ZS TZ 0.8: 6.5396
+D-ZS TZ 1: 6.4288
+D-ZS TZ 1.2: 6.5056
+D-ZS TZ 1.4: 6.7023
+D-BAY: 7.8261
+D-ZS-BAY TZ 0.6: 6.9206
+D-ZS-BAY TZ 0.8: 6.7487
+D-ZS-BAY TZ 1: 6.7487
+D-ZS-BAY TZ 1.2: 6.8941
+D-ZS-BAY TZ 1.4: 7.1256
+C-Hybrid (CRLB): 2.6494
+C-AOA (CRLB): 2.5213
+D-Median (CRLB): 5.9316
+D-Mean (CRLB): 7.5178
+D-ZS TZ 1 (CRLB): 6.2395
+D-BAY (CRLB): 7.7011
+D-ZS-BAY TZ 1 (CRLB): 6.5871
+C-RSS (LR): 59.1315
+C-AOA (LR): 34.0911
+C-Hybrid (LR): 32.7765
+C-RSS-dB (LR): 19.5167
+C-Hybrid-dB (LR): 16.0124
+D-Median (LR dB): 47.0633
+C-AOA (LR CRLB): 32.0365
+C-Hybrid (LR CRLB): 30.9957
+C-Hybrid-dB (LR CRLB): 15.4722
+D-Median (LR dB CRLB): 47.0707
+C-RSS (WKNN): 18.7248
+C-AOA (WKNN): 8.0171
+C-Hybrid (WKNN): 8.0171
+C-RSS-dB (WKNN): 5.5495
+C-Hybrid-dB (WKNN): 7.9525
+D-Median (WKNN dB): 5.1254
+C-AOA (WKNN CRLB): 7.4653
+C-Hybrid-dB (WKNN CRLB): 7.5112
+D-Median (WKNN dB CRLB): 4.8811
+fcnn : 5.841282 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1562.8178
+C-AOA: 724.2714
+C-Hybrid: 505.7269
+D-Median: 6246.2263
+D-Mean: 308.1899
+D-ZS TZ 0.6: 551.0156
+D-ZS TZ 0.8: 446.1509
+D-ZS TZ 1: 390.6798
+D-ZS TZ 1.2: 358.6553
+D-ZS TZ 1.4: 339.1589
+D-BAY: 242.5814
+D-ZS-BAY TZ 0.6: 453.2546
+D-ZS-BAY TZ 0.8: 363.7596
+D-ZS-BAY TZ 1: 316.7245
+D-ZS-BAY TZ 1.2: 289.5711
+D-ZS-BAY TZ 1.4: 273.1077
+C-Hybrid (CRLB): 213.1055
+C-AOA (CRLB): 371.3373
+D-Median (CRLB): 6179.5466
+D-Mean (CRLB): 300.5089
+D-ZS TZ 1 (CRLB): 388.3616
+D-BAY (CRLB): 241.9770
+D-ZS-BAY TZ 1 (CRLB): 317.0850
+
+ant_number =
+
+    45
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0049
+C-AOA: 4.7479
+C-Hybrid: 4.4900
+D-Median: 6.1513
+D-Mean: 7.8152
+D-ZS TZ 0.6: 6.8276
+D-ZS TZ 0.8: 6.5318
+D-ZS TZ 1: 6.4246
+D-ZS TZ 1.2: 6.4947
+D-ZS TZ 1.4: 6.6957
+D-BAY: 7.8289
+D-ZS-BAY TZ 0.6: 6.9214
+D-ZS-BAY TZ 0.8: 6.7497
+D-ZS-BAY TZ 1: 6.7515
+D-ZS-BAY TZ 1.2: 6.8999
+D-ZS-BAY TZ 1.4: 7.1297
+C-Hybrid (CRLB): 2.6556
+C-AOA (CRLB): 2.5394
+D-Median (CRLB): 5.9341
+D-Mean (CRLB): 7.5181
+D-ZS TZ 1 (CRLB): 6.2361
+D-BAY (CRLB): 7.7015
+D-ZS-BAY TZ 1 (CRLB): 6.5937
+C-RSS (LR): 59.1325
+C-AOA (LR): 33.9474
+C-Hybrid (LR): 32.7118
+C-RSS-dB (LR): 19.5176
+C-Hybrid-dB (LR): 15.9692
+D-Median (LR dB): 47.0624
+C-AOA (LR CRLB): 32.0406
+C-Hybrid (LR CRLB): 31.0333
+C-Hybrid-dB (LR CRLB): 15.4642
+D-Median (LR dB CRLB): 47.0688
+C-RSS (WKNN): 18.7061
+C-AOA (WKNN): 8.0191
+C-Hybrid (WKNN): 8.0191
+C-RSS-dB (WKNN): 5.5470
+C-Hybrid-dB (WKNN): 7.9517
+D-Median (WKNN dB): 5.1293
+C-AOA (WKNN CRLB): 7.4628
+C-Hybrid-dB (WKNN CRLB): 7.5107
+D-Median (WKNN dB CRLB): 4.8807
+fcnn : 5.711648 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1565.2289
+C-AOA: 695.8741
+C-Hybrid: 485.5603
+D-Median: 6252.6987
+D-Mean: 307.8287
+D-ZS TZ 0.6: 551.4667
+D-ZS TZ 0.8: 446.2967
+D-ZS TZ 1: 390.7434
+D-ZS TZ 1.2: 358.5045
+D-ZS TZ 1.4: 338.9376
+D-BAY: 242.3883
+D-ZS-BAY TZ 0.6: 453.3688
+D-ZS-BAY TZ 0.8: 363.9651
+D-ZS-BAY TZ 1: 316.7827
+D-ZS-BAY TZ 1.2: 289.4899
+D-ZS-BAY TZ 1.4: 272.9631
+C-Hybrid (CRLB): 210.3940
+C-AOA (CRLB): 368.0907
+D-Median (CRLB): 6173.9635
+D-Mean (CRLB): 300.5244
+D-ZS TZ 1 (CRLB): 388.4004
+D-BAY (CRLB): 241.8090
+D-ZS-BAY TZ 1 (CRLB): 316.8823
+
+ant_number =
+
+    50
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+
+Average Positioning Errors:
+C-RSS: 9.0025
+C-AOA: 4.7284
+C-Hybrid: 4.4727
+D-Median: 6.1528
+D-Mean: 7.8116
+D-ZS TZ 0.6: 6.8343
+D-ZS TZ 0.8: 6.5376
+D-ZS TZ 1: 6.4277
+D-ZS TZ 1.2: 6.4981
+D-ZS TZ 1.4: 6.6958
+D-BAY: 7.8249
+D-ZS-BAY TZ 0.6: 6.9279
+D-ZS-BAY TZ 0.8: 6.7591
+D-ZS-BAY TZ 1: 6.7584
+D-ZS-BAY TZ 1.2: 6.9077
+D-ZS-BAY TZ 1.4: 7.1324
+C-Hybrid (CRLB): 2.6460
+C-AOA (CRLB): 2.5210
+D-Median (CRLB): 5.9361
+D-Mean (CRLB): 7.5157
+D-ZS TZ 1 (CRLB): 6.2320
+D-BAY (CRLB): 7.7027
+D-ZS-BAY TZ 1 (CRLB): 6.5931
+C-RSS (LR): 59.1392
+C-AOA (LR): 33.9574
+C-Hybrid (LR): 32.6538
+C-RSS-dB (LR): 19.5161
+C-Hybrid-dB (LR): 15.9778
+D-Median (LR dB): 47.0623
+C-AOA (LR CRLB): 32.0259
+C-Hybrid (LR CRLB): 30.9678
+C-Hybrid-dB (LR CRLB): 15.4623
+D-Median (LR dB CRLB): 47.0728
+C-RSS (WKNN): 18.7265
+C-AOA (WKNN): 8.0248
+C-Hybrid (WKNN): 8.0248
+C-RSS-dB (WKNN): 5.5440
+C-Hybrid-dB (WKNN): 7.9520
+D-Median (WKNN dB): 5.1455
+C-AOA (WKNN CRLB): 7.4631
+C-Hybrid-dB (WKNN CRLB): 7.5104
+D-Median (WKNN dB CRLB): 4.8833
+fcnn : 5.798684 
+
+
+Average Error Ellipse Areas:
+C-RSS: 1558.5472
+C-AOA: 690.2187
+C-Hybrid: 481.9775
+D-Median: 6255.4195
+D-Mean: 307.8016
+D-ZS TZ 0.6: 552.1140
+D-ZS TZ 0.8: 446.7010
+D-ZS TZ 1: 391.0049
+D-ZS TZ 1.2: 358.6881
+D-ZS TZ 1.4: 339.0667
+D-BAY: 242.4579
+D-ZS-BAY TZ 0.6: 454.0411
+D-ZS-BAY TZ 0.8: 364.3551
+D-ZS-BAY TZ 1: 316.9773
+D-ZS-BAY TZ 1.2: 289.6395
+D-ZS-BAY TZ 1.4: 273.0768
+C-Hybrid (CRLB): 210.7872
+C-AOA (CRLB): 366.7890
+D-Median (CRLB): 6179.6600
+D-Mean (CRLB): 300.5564
+D-ZS TZ 1 (CRLB): 388.4493
+D-BAY (CRLB): 241.8861
+D-ZS-BAY TZ 1 (CRLB): 316.9991
+
+NUM_TP_INSIDE_ELLIPSE_CR: 1656425
+NUM_TP_INSIDE_ELLIPSE_CA: 1518243
+NUM_TP_INSIDE_ELLIPSE_CH: 1523775
+NUM_TP_INSIDE_ELLIPSE_DD: 1699893
+NUM_TP_INSIDE_ELLIPSE_DM: 1232628
+NUM_TP_INSIDE_ELLIPSE_DZ: 1471747
+NUM_TP_INSIDE_ELLIPSE_DBAY: 1137339
+NUM_TP_INSIDE_ELLIPSE_DZ_BAY: 1370926
+NUM_TP_INSIDE_ELLIPSE_CA_CRLB: 1573461
+NUM_TP_INSIDE_ELLIPSE_CH_CRLB: 1567231
+NUM_TP_INSIDE_ELLIPSE_DD_CRLB: 1699921
+NUM_TP_INSIDE_ELLIPSE_DM_CRLB: 1268585
+NUM_TP_INSIDE_ELLIPSE_DZ_CRLB: 1491747
+NUM_TP_INSIDE_ELLIPSE_DBAY_CRLB: 1148662
+NUM_TP_INSIDE_ELLIPSE_DZ_BAY_CRLB: 1391945
+
+
+TPs in Ellipse CR: 97.44%
+TPs in Ellipse CA: 89.31%
+TPs in Ellipse CH: 89.63%
+TPs in Ellipse DD: 99.99%
+TPs in Ellipse DM: 72.51%
+TPs in Ellipse DZ: 86.57%
+TPs in Ellipse DBAY: 66.90%
+TPs in Ellipse DZ_BAY: 80.64%
+TPs in Ellipse CA (CRLB): 92.56%
+TPs in Ellipse CH (CRLB): 92.19%
+TPs in Ellipse DD (CRLB): 100.00%
+TPs in Ellipse DM (CRLB): 74.62%
+TPs in Ellipse DZ (CRLB): 87.75%
+TPs in Ellipse DBAY (CRLB): 67.57%
+TPs in Ellipse DZ_BAY (CRLB): 81.88%
+
