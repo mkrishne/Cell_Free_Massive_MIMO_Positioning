@@ -70,17 +70,17 @@ plt.plot(sigma_sf_db[12::-1], distributed_mean[12::-1],
 plt.plot(sigma_sf_db[12::-1], distributed_zscore[12::-1],
          label='Distributed-Z-score', marker='o', color=color_map['Distributed Zscore'])
 
-plt.xlabel('Shadow Fading (dB)',fontsize=23)
+plt.xlabel('Shadow Fading (dB)',fontsize=24)
 plt.ylabel('Mean Localization Error (m)',fontsize=23)
 plt.grid(True)
 plt.xticks(np.arange(12, -1, -1))  # Setting x-ticks to display from 12 down to 0
 plt.xlim(12, 0)  # Setting the x-axis limits to reverse the direction from 12 to 0
 plt.yticks(np.arange(0, 21, 2))
 plt.ylim(0, 20)
-plt.gca().xaxis.set_tick_params(labelsize=15)
-plt.gca().yaxis.set_tick_params(labelsize=14)
+plt.gca().xaxis.set_tick_params(labelsize=18)
+plt.gca().yaxis.set_tick_params(labelsize=18)
 
-plt.legend(loc='upper right', frameon=True, framealpha=0.2, prop={'size': 14})
+plt.legend(loc='upper right', frameon=True, framealpha=0.2, prop={'size': 18})
 plt.tight_layout()
 plt.savefig('Fig7_loc_accuracy_vs_SF_L25_N25_Tz1_K225.png', dpi=300, bbox_inches='tight')  # Save as PNG
 plt.show()

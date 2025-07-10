@@ -81,11 +81,11 @@ ax2.set_xticks([3] + list(range(5, 55, 5)))
 ax1.spines['bottom'].set_visible(False)
 ax2.spines['top'].set_visible(False)
 
-ax1.xaxis.set_tick_params(labelsize=13.5)
-ax1.yaxis.set_tick_params(labelsize=12)
+ax1.xaxis.set_tick_params(labelsize=15)
+ax1.yaxis.set_tick_params(labelsize=15)
 
-ax2.xaxis.set_tick_params(labelsize=13.5)
-ax2.yaxis.set_tick_params(labelsize=12)
+ax2.xaxis.set_tick_params(labelsize=15)
+ax2.yaxis.set_tick_params(labelsize=15)
 
 # Axis breaks
 d = 0.5
@@ -94,10 +94,10 @@ ax1.plot([0, 1], [0, 0], transform=ax1.transAxes, **kwargs)
 ax2.plot([0, 1], [1, 1], transform=ax2.transAxes, **kwargs)
 
 # Labels and legend
-fig.text(0.5, 0.02, 'Number of Antennas per AP (N)', ha='center', fontsize=23)
-fig.text(0.04, 0.5, r'Area of 95% Error Ellipse (m$^\boldsymbol{2}$)', va='center', rotation='vertical', fontsize=23)
+fig.text(0.5, 0, 'Number of Antennas per AP (N)', ha='center', fontsize=23)
+fig.text(0.02, 0.5, r'Area of 95% Error Ellipse (m$^\boldsymbol{2}$)', va='center', rotation='vertical', fontsize=23)
 
-ax2.legend(fontsize=14, loc='upper right',bbox_to_anchor=(1, 1.06),framealpha=0.4)
+ax2.legend(fontsize=15, loc='upper right',bbox_to_anchor=(1, 1.075),framealpha=0.4)
 
 # Save and show
 plt.savefig('Fig5a_err_ellips_area_vs_ant_L25_SF8dB_Tz1_K64.png', dpi=300, bbox_inches='tight')

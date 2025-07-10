@@ -66,12 +66,12 @@ plt.plot(L_values, distributed_bayesian, marker='o', label='Distributed-Bayesian
 plt.plot(L_values, distributed_zscore, marker='o', label='Distributed-Z-score',
          color=color_map['Distributed Zscore'])
 
-plt.xlabel('Number of APs (L)',fontsize=23)
+plt.xlabel('Number of APs (L)',fontsize=25)
 plt.ylabel('Mean Localization Error (m)',fontsize=23)
-plt.gca().xaxis.set_tick_params(labelsize=15)
-plt.gca().yaxis.set_tick_params(labelsize=14)
+plt.gca().xaxis.set_tick_params(labelsize=17)
+plt.gca().yaxis.set_tick_params(labelsize=17)
 
-plt.legend(frameon=True, framealpha=0.5, prop={'size': 14})
+plt.legend(frameon=True, framealpha=0.5, prop={'size': 17})
 plt.grid(True)
 plt.savefig('Fig8_loc_accuracy_vs_L_SF8_N25_Tz1_K225.png', dpi=300, bbox_inches='tight')  # Save as PNG
 plt.show()

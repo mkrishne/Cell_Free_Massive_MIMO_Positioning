@@ -91,47 +91,77 @@ fcnn =     [12.972596, 11.395674, 10.183187, 9.421949, 8.345975, 7.762053, 7.368
     6.863254, 6.579629, 6.517370, 6.414308, 6.253715, 6.072018, 5.901977, 5.841282,
     5.711648, 5.798684]
 
-# Create the figure and axis
-fig, ax = plt.subplots(figsize=(12, 8))
+# Create the figure and axes with new break
+fig, (ax1, ax2) = plt.subplots(2, 1, sharex=True, figsize=(12, 8),
+                               gridspec_kw={'height_ratios': [0.3, 2.7]})
+fig.subplots_adjust(hspace=0.07)
 
-# Plot each dataset
-ax.plot(ant_number, centralised_rss, '-^', label='Centralized-RSS', color=color_map['Centralized RSS'])
-ax.plot(ant_number, centralised_hybrid, '-^', label='Centralized-Hybrid', color=color_map['Centralized Hybrid'])
-ax.plot(ant_number, centralised_aoa, '-^', label='Centralized-AOA', color=color_map['Centralized AOA'])
-ax.plot(ant_number, distributed_median, '-o', label='Distributed-Median', color=color_map['Distributed Median'])
-ax.plot(ant_number, distributed_mean, '-o', label='Distributed-Mean', color=color_map['Distributed Mean'])
-ax.plot(ant_number, distributed_bayesian, '-o', label='Distributed-Bayesian', color=color_map['Distributed Bayesian'])
-ax.plot(ant_number, distributed_zscore_tz_1, '-o', label='Distributed-Z-score (Tz=1)', color=color_map['Distributed Zscore (Tz=1)'])
-ax.plot(ant_number, knn_rss, '-^', label='Centralized-RSS (KNN)', color=color_map['Centralized RSS KNN'])
-ax.plot(ant_number, distributed_knn, '-o', label='Distributed-Median (KNN)', color=color_map['Distributed Median KNN'])
-ax.plot(ant_number, lr_rss, '-^', label='Centralized-RSS (LR)', color=color_map['Centralized RSS LR'])
-ax.plot(ant_number, centralized_hybrid_no_noise, '-^', label='Centr-Hybrid (no train noise)', color=color_map['Centr Hybrid (no train noise)'])
-ax.plot(ant_number, distributed_bayesian_no_noise, '-o', label='Distr-Bayesian (no train noise)', color=color_map['Distr Bayesian (no train noise)'])
-ax.plot(ant_number, distributed_bayesian_zscore_no_noise, '-o', label='Distr-Z-score (Tz=1, no train noise)', color=color_map['Distr Zscore (Tz=1, no train noise)'])
-ax.plot(ant_number, fcnn, '-^', label='FCNN', color=color_map['FCNN'])
+# Top axis (values above 19)
+ax1.plot(ant_number, centralised_rss, '-^', label='Centralized-RSS', color=color_map['Centralized RSS'])
+ax1.plot(ant_number, centralised_hybrid, '-^', label='Centralized-Hybrid', color=color_map['Centralized Hybrid'])
+ax1.plot(ant_number, centralised_aoa, '-^', label='Centralized-AOA', color=color_map['Centralized AOA'])
+ax1.plot(ant_number, distributed_median, '-o', label='Distributed-Median', color=color_map['Distributed Median'])
+ax1.plot(ant_number, distributed_mean, '-o', label='Distributed-Mean', color=color_map['Distributed Mean'])
+ax1.plot(ant_number, distributed_bayesian, '-o', label='Distributed-Bayesian', color=color_map['Distributed Bayesian'])
+ax1.plot(ant_number, distributed_zscore_tz_1, '-o', label='Distributed-Z-score (Tz=1)', color=color_map['Distributed Zscore (Tz=1)'])
+ax1.plot(ant_number, knn_rss, '-^', label='Centralized-RSS (KNN)', color=color_map['Centralized RSS KNN'])
+ax1.plot(ant_number, distributed_knn, '-o', label='Distributed-Median (KNN)', color=color_map['Distributed Median KNN'])
+ax1.plot(ant_number, lr_rss, '-^', label='Centralized-RSS (LR)', color=color_map['Centralized RSS LR'])
+ax1.plot(ant_number, distributed_bayesian_no_noise, '-o', label='Distr-Bayesian (no train noise)', color=color_map['Distr Bayesian (no train noise)'])
+ax1.plot(ant_number, fcnn, '-^', label='FCNN', color=color_map['FCNN'])
 
-# Add grid
-ax.grid(True, linestyle='--', linewidth=0.5, color='gray', alpha=0.5)
+# Bottom axis (values below 14)
+ax2.plot(ant_number, centralised_rss, '-^', color=color_map['Centralized RSS'])
+ax2.plot(ant_number, centralised_hybrid, '-^', color=color_map['Centralized Hybrid'])
+ax2.plot(ant_number, centralised_aoa, '-^', color=color_map['Centralized AOA'])
+ax2.plot(ant_number, distributed_median, '-o', color=color_map['Distributed Median'])
+ax2.plot(ant_number, distributed_mean, '-o', color=color_map['Distributed Mean'])
+ax2.plot(ant_number, distributed_bayesian, '-o', color=color_map['Distributed Bayesian'])
+ax2.plot(ant_number, distributed_zscore_tz_1, '-o', color=color_map['Distributed Zscore (Tz=1)'])
+ax2.plot(ant_number, knn_rss, '-^', color=color_map['Centralized RSS KNN'])
+ax2.plot(ant_number, distributed_knn, '-o', color=color_map['Distributed Median KNN'])
+ax2.plot(ant_number, lr_rss, '-^', color=color_map['Centralized RSS LR'])
+ax2.plot(ant_number, distributed_bayesian_no_noise, '-o', color=color_map['Distr Bayesian (no train noise)'])
+ax2.plot(ant_number, fcnn, '-^', color=color_map['FCNN'])
 
-# Set y-axis limits
-ax.set_ylim(3, 21)
-ax.set_yticks(range(3, 22, 2))
+# Grids
+ax1.grid(True, linestyle='--', linewidth=0.5, color='gray', alpha=0.5)
+ax2.grid(True, linestyle='--', linewidth=0.5, color='gray', alpha=0.5)
 
-# Set x-axis limits
-ax.set_xlim(3, 50)
-ax.set_xticks([3] + list(range(5, 55, 5)))
+# Set Y-limits and ticks
+ax1.set_ylim(18, 20)  # Set this according to your actual data
+ax1.set_yticks([18, 20])  # Adjust ticks to suit your data
+ax2.set_ylim(4, 13.5)
+ax2.set_yticks([4,6,8,10,12,13])
 
-# Increased font size for axis labels
-ax.tick_params(axis='both', which='major', labelsize=18)
+# X-axis
+ax2.set_xlim(3, 50)
+ax2.set_xticks([3] + list(range(5, 55, 5)))
 
-# Add labels and title
-ax.set_xlabel('Number of Antennas per AP (N)', fontsize=25)
-ax.set_ylabel('Mean Localization Error (m)', fontsize=25)
+# Tick labels
+ax1.tick_params(axis='both', which='major', labelsize=18)
+ax2.tick_params(axis='both', which='major', labelsize=18)
 
-ax.legend(loc='upper left', bbox_to_anchor=(0.6, 0.935), fontsize=11.7, frameon=True, framealpha=0.4)
+# Hide spines between axes
+ax1.spines['bottom'].set_visible(False)
+ax2.spines['top'].set_visible(False)
 
-# Save the figure in high quality for an IEEE paper
+# Diagonal lines
+d = 0.5
+kwargs = dict(marker=[(-1, -d), (1, d)], markersize=12,
+              linestyle='none', color='k', mec='k', mew=1, clip_on=False)
+ax1.plot([0, 1], [0, 0], transform=ax1.transAxes, **kwargs)
+ax2.plot([0, 1], [1, 1], transform=ax2.transAxes, **kwargs)
+
+# Labels
+fig.text(0.5, 0.02, 'Number of Antennas per AP (N)', ha='center', fontsize=25)
+fig.text(0.06, 0.5, 'Mean Localization Error (m)', va='center', rotation='vertical', fontsize=25)
+
+# Legend
+fig.legend(loc='upper right', bbox_to_anchor=(0.89, 0.86), bbox_transform=fig.transFigure,
+           fontsize=15, frameon=True, framealpha=0.4)
+
+# Save
 plt.savefig('Fig3b_loc_accuracy_vs_ant_L25_SF8dB_Tz1_K225.png', dpi=300, bbox_inches='tight')
-
-# Show the plot
 plt.show()
+

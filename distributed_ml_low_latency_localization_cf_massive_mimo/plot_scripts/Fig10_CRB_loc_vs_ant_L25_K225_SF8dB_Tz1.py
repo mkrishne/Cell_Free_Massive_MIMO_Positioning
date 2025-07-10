@@ -98,9 +98,9 @@ plt.plot(antennas, distributed_zscore_crlb, marker='^', label='Distributed-Z-sco
 plt.xlabel('Number of Antennas per AP (N)',fontsize=22)
 plt.ylabel('Mean Localization Error (m)',fontsize=22)
 plt.xlim(3, 50)
-plt.xticks([3, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50], fontsize=15)
-plt.yticks([2,4,6,8,10,12],fontsize=15)
+plt.xticks([3, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50], fontsize=17)
+plt.yticks([2,4,6,8,10,12],fontsize=17)
 plt.grid(True)
-plt.legend(fontsize=9)
-plt.savefig('Fig10_CRLB_loc_vs_ant_L25_K225_SF8dB_Tz1.png', dpi=300, bbox_inches='tight')  # Save as PNG
+plt.legend(fontsize=9.5)
+plt.savefig('Fig10_CRB_loc_vs_ant_L25_K225_SF8dB_Tz1.png', dpi=300, bbox_inches='tight')  # Save as PNG
 plt.show()

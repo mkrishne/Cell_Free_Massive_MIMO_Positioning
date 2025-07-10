@@ -154,8 +154,8 @@ fig.text(0.5, 0.02, 'Number of Antennas per AP (N)', ha='center', fontsize=25)
 fig.text(0.06, 0.5, 'Mean Localization Error (m)', va='center', rotation='vertical', fontsize=25)
 
 # Legend
-fig.legend(loc='upper right', bbox_to_anchor=(0.89, 0.86), bbox_transform=fig.transFigure,
-           fontsize=12, frameon=True, framealpha=0.4)
+fig.legend(loc='upper right', bbox_to_anchor=(0.90, 0.87), bbox_transform=fig.transFigure,
+           fontsize=15, frameon=True, framealpha=0.4)
 
 # Save
 plt.savefig('Fig3a_loc_accuracy_vs_ant_L25_SF8dB_Tz1_K64.png', dpi=300, bbox_inches='tight')

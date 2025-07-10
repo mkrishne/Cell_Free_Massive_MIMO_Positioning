@@ -57,7 +57,7 @@ plt.ylim(6.5, 8)
 
 # Adding grid and legend
 plt.grid(True)
-plt.legend(fontsize=13.5, loc='upper right', framealpha=0.3, bbox_to_anchor=(1, 0.89))
+plt.legend(fontsize=15, loc='upper right', framealpha=0.3, bbox_to_anchor=(1, 0.87))
 
 # Saving the plot
 plt.savefig('Fig4_loc_accuracy_vs_ant_across_Tz_L25_SF8dB.png', dpi=300, bbox_inches='tight')  # Save as PNG

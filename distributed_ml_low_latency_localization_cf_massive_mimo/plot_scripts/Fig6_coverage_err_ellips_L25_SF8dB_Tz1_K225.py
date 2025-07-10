@@ -13,12 +13,12 @@ plt.barh(algorithms, coverage_percentages, color='skyblue')
 
 # Add labels and title
 plt.xlabel('Percentage of Test Points Covered by 95% Error Ellipse (%)', fontsize=22)
-plt.ylabel('Localization Algorithms', fontsize=22)
+plt.ylabel('Localization Algorithms', fontsize=23)
 #plt.title('Coverage of 95% Error Ellipse by Different Algorithms', fontsize=16)
 
 # Set different font sizes for x and y tick labels
-plt.gca().xaxis.set_tick_params(labelsize=14)  # x-axis tick font size
-plt.gca().yaxis.set_tick_params(labelsize=13)  # y-axis tick font size
+plt.gca().xaxis.set_tick_params(labelsize=15)  # x-axis tick font size
+plt.gca().yaxis.set_tick_params(labelsize=15)  # y-axis tick font size
 
 
 # Show grid
